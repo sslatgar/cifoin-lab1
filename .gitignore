@@ -10,3 +10,4 @@ wheels/
 .venv
 *.npz
 .cache/
+WAVEGUIDES_SOLUTIONS.ipynb
